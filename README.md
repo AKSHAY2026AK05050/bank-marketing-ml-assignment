@@ -12,7 +12,7 @@ The goal is to predict whether a client will subscribe to a term deposit (`yes` 
 - The dataset is imbalanced (majority class is “no”).
 
 ## c. GitHub Repository Link
-[[Add your GitHub repository link here after you push the code]](https://github.com/AKSHAY2026AK05050/bank-marketing-ml-assignment)
+https://github.com/AKSHAY2026AK05050/bank-marketing-ml-assignment
 
 ## d. Models Used
 
